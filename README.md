@@ -61,7 +61,7 @@ Note the difference between outside collaborators and members. Outside collabora
 If you would like to grade each assignment on your Windows machine, you can download Github's Classroom Assistant, which you should be able to find in the assignment page with a button labeled "Download Repositories". When this is pressed, it will ask you to open in the assistant. Click that and it should open, allowing you to download all repositories for that assignment. The Classroom Assistant can be found at https://classroom.github.com/assistant
 
 
-###THESE ALTERNATIVE INSTRUCTIONS BELOW ARE FROM ANOTHER TEACHER. IT WAS CONSIDERED THAT IT MAY BE USEFUL IF YOU DECIDE TO RUN STUFF ON ODIN OR ANTOHER LINUX MACHINE INSTEAD OF WINDOWS AND DON'T WANT TO USE THE CLASSROOM ASSISTANT.
+### THESE ALTERNATIVE INSTRUCTIONS BELOW ARE FROM ANOTHER TEACHER. IT WAS CONSIDERED THAT IT MAY BE USEFUL IF YOU DECIDE TO RUN STUFF ON ODIN OR ANTOHER LINUX MACHINE INSTEAD OF WINDOWS AND DON'T WANT TO USE THE CLASSROOM ASSISTANT.
 
 I want to give the general outline of our grading workflow before I go into the details. The idea is that for each assignment, we will clone all of the students' assignments into our local computer using a shell script. These assignments (which are directories/repositories) will live inside a directory unique to that assignment. So, assignment1 will have an assignment1 directory, and inside of that will be many directories, one for each student's repository. We will then add comments or edit each student's homework assignment locally and save these changes. We then have a shell script that will commit these changes and push each student's repository back to GitHub with a single commit message ("Graded $date $time"). The students can then click on this commit message in their GitHub repository to see a diff and will know what you added.
 
@@ -90,7 +90,7 @@ class-fall-2017
 
 Here are the commands that I used in my terminal to do the above:
 
-![Alt Text](img/grading-dirs.png)
+![Alt Text](grading-dirs.png)
 
 3. Edit the `clone_all_helper_example.sh` script so that your class specific organization and your username replaces the default settings in the organization and username fields
 
