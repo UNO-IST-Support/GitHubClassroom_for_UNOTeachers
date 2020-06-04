@@ -141,5 +141,5 @@ And here is a GIF showing how to do the above:
 * https://classroom.github.com/videos
 * https://ecots2018.github.io/ another great guide from Adam Sullivan at Brown University
 
-###Credits
+### Credits
 This guide and alternative grading instructions were derived from https://github.com/jfiksel/github-classroom-for-teachers
