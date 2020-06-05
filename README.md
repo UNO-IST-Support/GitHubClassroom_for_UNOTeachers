@@ -2,6 +2,46 @@
 
 This is a guide for using GitHub Classroom to assist or run your class. This guide should be applicable to most classes, those that aren't compatible (Bash commands or non-supported languages) will have to be tested on Odin or a personal machine. This DOES NOT stop students from being able to push code to assignment repositories for submission.
 
+### Steps for getting setup with GitHub
+1. Register for account on GitHub (https://github.com/). We recommend using a username that incorporates your netid.
+
+2. Install Git. Windows: https://gitforwindows.org/. Mac should already have it installed if you are running anything above Mavericks (10.9). To see if you if it is installed, open Terminal and type "git --version". If it isn't installed, it will prompt you to install it. For linux, should also already have git, but if not you can install it by running "sudo apt install git-all" or "sudo dnf install git-all".
+
+3. Setup options in Git. Open up a Terminal or Command Prompt and cd into the project directory. Once there, we need to run a couple commands to set up git. The first command is your name, the second command is the email associated with your GitHub account.
+
+git config --global user.name 'Jane Doe'
+git config --global user.email 'student@email.com'
+
+![Alt Text](http://g.recordit.co/ibUp6dYimU.gif)
+
+### Make a repo on GitHub
+
+You can skip this step if you are provided a repo through Github Classroom as once you accept the assignment, it creates a repo for you.
+
+Below we make a repository and copy the link so that we can get the repository onto our own computer.
+
+![Alt Text](http://g.recordit.co/Uw0QIT8XhR.gif)
+
+### Clone the repo to your local computer
+On your Command Window, cd to wherever you would like your project/repository to be placed.
+
+![Alt Text](http://g.recordit.co/0eLLGCclcO.gif)
+
+### Make a local change, commit, and push and confirm the local change propogated to the GitHub Remote
+Once you made changes to your files and need to push (upload) them to your repository, use these commands in a command window in that assignment directory.
+
+git add -a (If -a doesn't work, try --a, or instead of -a, you can put the file name if you just want to upload certain files)
+git commit -m "Put a meaningful comment here describing what you did"
+git remote add origin https://github.com/Classroom/repo (This link will be the link to your repository/assignment)
+git push -u origin master
+
+Once you run these commands, it will ask for your username (email) and password.
+After you push these, you may want to run another command so you don't have to continue entering your info.
+
+Timed (15 minutes) - git config --global credential.helper cache
+Timed (specifically) - git config --global credential.helper "cache --timeout=3600"
+Permanently - git config --global credential.helper manager
+
 
 ### Setting up GitHub Classroom:
 1. If you plan on repeating the class in future semesters, set up a "master" classroom organization. If you are teaching a class titled "Intro to Statistics", we recommend calling this organization intro-statistics-master, or something similar. We use this organization to host all assignments that will be used in the current and future versions of the class. Each assignment should be its own repository. When using GitHub classroom to send out assignments, we can use repositories from this organization as starter code. If changes need to be made for future years, you can change the repository in the organization without affecting the current version of the class. The GIF below shows how to create an organization on GitHub
