@@ -3,7 +3,7 @@
 This is a guide for using GitHub Classroom to assist or run your class. This guide should be applicable to most classes, those that aren't compatible (Bash commands or non-supported languages) will have to be tested on Odin or a personal machine. This DOES NOT stop students from being able to push code to assignment repositories for submission.
 
 ### Steps for getting setup with GitHub
-1. Register for account on GitHub (https://github.com/). We recommend using a username that incorporates your netid.
+1. Register for account on GitHub (https://github.com/). We recommend using a username that incorporates your UNO NetID.
 
 2. Install Git. Windows: https://gitforwindows.org/. Mac should already have it installed if you are running anything above Mavericks (10.9). To see if you if it is installed, open Terminal and type "git --version". If it isn't installed, it will prompt you to install it. For linux, should also already have git, but if not you can install it by running "sudo apt install git-all" or "sudo dnf install git-all".
 
