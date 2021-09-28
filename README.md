@@ -117,11 +117,15 @@ Note the difference between outside collaborators and members. Outside collabora
 
 ### Sending out individual assignments
 1. Make the assignment repo in the master organization. This can include all starter code, data, etc... Be smart about naming your repository. Remember, there are no spaces allowed in GitHub repository names. We recommend using the dash "-" to separate words and numbers. A couple examples of assignment names we have used are "test-assignment" and "unit-1-assignment-1". In the example below we make this a public repository, but you can make it a private repository if you don't want others to see your class assignments.
-
+<br/>
 [Github Classroom Assignment Template](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-an-assignment-from-a-template-repository)
+<br/>
 [Github Classroom Individual Assignments](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-an-individual-assignment)
+<br/>
 [Github Classroom Group Assignments](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-a-group-assignment)
+<br/>
 [Github Classroom Feedback and Pull Requests](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/leave-feedback-with-pull-requests)
+<br/>
 
 ![Alt Text](http://g.recordit.co/EmPa2zlQQ3.gif)
 
@@ -138,7 +142,9 @@ Note the difference between outside collaborators and members. Outside collabora
 ![Alt Text](http://g.recordit.co/H8N2YlVcbV.gif)
 
 ### Grading assignments
-Github Classroom has a feature for autograding. This allows students to see their grade each time they push code to the repo and get hints where it is erroring. This feature also allows you to see an overview of how all the students are doing and whether they pass or not. You can read more about it in the [Github Classroom Autograding](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/use-autograding)
+Github Classroom has a feature for autograding. This allows students to see their grade each time they push code to the repo and get hints where it is erroring. This feature also allows you to see an overview of how all the students are doing and whether they pass or not. You can read more about it in the autograding documentation.
+<br/>
+[Github Classroom Autograding](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/use-autograding)
 <br/>
 If you would like to grade each assignment on your Windows machine, you can download Github's Classroom Assistant, which you should be able to find in the assignment page with a button labeled "Download Repositories". When this is pressed, it will ask you to open in the assistant. Click that and it should open, allowing you to download all repositories for that assignment. The Classroom Assistant can be found at https://classroom.github.com/assistant
 
