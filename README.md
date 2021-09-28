@@ -9,8 +9,13 @@ This is a guide for using GitHub Classroom to assist or run your class. This gui
 
 3. Setup options in Git. Open up a Terminal or Command Prompt and cd into the project directory. Once there, we need to run a couple commands to set up git. The first command is your name, the second command is the email associated with your GitHub account.
 
+```
 git config --global user.name 'Jane Doe'
+```
+
+```
 git config --global user.email 'student@email.com'
+```
 
 ![Alt Text](http://g.recordit.co/ibUp6dYimU.gif)
 
