@@ -6,6 +6,7 @@ This is a guide for using GitHub Classroom to assist or run your class. This gui
 <br/>
 ## Below is slightly outdated! Github has created more in depth documentation, so each section will have a link for that specific topic. This will now act like a tutorial for setting up Github. Click the link below to see the starting pages of Github Classroom.
 [Github Classroom Managing Classrooms](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/manage-classrooms)
+[Github Classroom Managing Classrooms]: https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/manage-classrooms
 
 
 ### Steps for getting setup with GitHub
