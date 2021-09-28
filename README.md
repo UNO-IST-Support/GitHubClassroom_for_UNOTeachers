@@ -46,7 +46,7 @@ git commit -m "Put a meaningful comment here describing what you did"
 ```
 git remote add origin https://github.com/Classroom/repo
 ```
-This link (the https://......) will be the link to your repository/assignment
+The link in the above command (the https://......) will be the link to your repository/assignment
 
 ```
 git push -u origin master
