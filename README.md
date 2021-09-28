@@ -118,7 +118,7 @@ Note the difference between outside collaborators and members. Outside collabora
 ### Sending out individual assignments
 1. Make the assignment repo in the master organization. This can include all starter code, data, etc... Be smart about naming your repository. Remember, there are no spaces allowed in GitHub repository names. We recommend using the dash "-" to separate words and numbers. A couple examples of assignment names we have used are "test-assignment" and "unit-1-assignment-1". In the example below we make this a public repository, but you can make it a private repository if you don't want others to see your class assignments.
 <br/>
-[Github Classroom Assignment Template](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-an-assignment-from-a-template-repository)
+[Github Classroom Managing Classrooms](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-an-assignment-from-a-template-repository)
 <br/>
 <br/>
 [Github Classroom Individual Assignments](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-an-individual-assignment)
