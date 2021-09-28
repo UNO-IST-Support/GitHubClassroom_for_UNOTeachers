@@ -120,11 +120,15 @@ Note the difference between outside collaborators and members. Outside collabora
 <br/>
 [Github Classroom Assignment Template](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-an-assignment-from-a-template-repository)
 <br/>
+<br/>
 [Github Classroom Individual Assignments](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-an-individual-assignment)
+<br/>
 <br/>
 [Github Classroom Group Assignments](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-a-group-assignment)
 <br/>
+<br/>
 [Github Classroom Feedback and Pull Requests](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/leave-feedback-with-pull-requests)
+<br/>
 <br/>
 
 ![Alt Text](http://g.recordit.co/EmPa2zlQQ3.gif)
