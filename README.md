@@ -1,11 +1,12 @@
 # GitHub Classroom Guide for Teachers
 
-This is a guide for using GitHub Classroom to assist or run your class. This guide should be applicable to most classes, those that aren't compatible (Bash commands or non-supported languages) will have to be tested on Odin or a personal machine. This DOES NOT stop students from being able to push code to assignment repositories for submission.
+This is a guide for using GitHub Classroom to assist or run your class. This guide should be applicable to most classes, those that aren't compatible (Bash commands or non-supported languages) will have to be tested on Odin or a personal machine. 
 
 <br/>
 <br/>
-## Need a specific topic? Click the links below to quickly navigate!
-[repo](https://github.com/UNO-IST-Support/GitHubClassroom_for_UNOTeachers#Setting_up_GitHub_Classroom)
+## Below is slightly outdated! Github has created more in depth documentation, so each section will have a link for that specific topic. This will now act like a tutorial for setting up Github. Click the link below to see the starting pages of Github Classroom.
+[Github Classroom Managing Classrooms](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/manage-classrooms)
+
 
 ### Steps for getting setup with GitHub
 1. Register for account on GitHub (https://github.com/). We recommend using a username that incorporates your UNO NetID.
@@ -115,6 +116,11 @@ Note the difference between outside collaborators and members. Outside collabora
 ### Sending out individual assignments
 1. Make the assignment repo in the master organization. This can include all starter code, data, etc... Be smart about naming your repository. Remember, there are no spaces allowed in GitHub repository names. We recommend using the dash "-" to separate words and numbers. A couple examples of assignment names we have used are "test-assignment" and "unit-1-assignment-1". In the example below we make this a public repository, but you can make it a private repository if you don't want others to see your class assignments.
 
+[Github Classroom Assignment Template](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-an-assignment-from-a-template-repository)
+[Github Classroom Individual Assignments](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-an-individual-assignment)
+[Github Classroom Group Assignments](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/create-a-group-assignment)
+[Github Classroom Feedback and Pull Requests](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/leave-feedback-with-pull-requests)
+
 ![Alt Text](http://g.recordit.co/EmPa2zlQQ3.gif)
 
 2. Go to https://classroom.github.com/classrooms and click on the current class organization. Click new assignment, then create an individual assignment.
@@ -130,7 +136,10 @@ Note the difference between outside collaborators and members. Outside collabora
 ![Alt Text](http://g.recordit.co/H8N2YlVcbV.gif)
 
 ### Grading assignments
+Github Classroom has a feature for autograding. This allows students to see their grade each time they push code to the repo and get hints where it is erroring. This feature also allows you to see an overview of how all the students are doing and whether they pass or not. You can read more about it in the [Github Classroom Autograding](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/use-autograding)
+<br/>
 If you would like to grade each assignment on your Windows machine, you can download Github's Classroom Assistant, which you should be able to find in the assignment page with a button labeled "Download Repositories". When this is pressed, it will ask you to open in the assistant. Click that and it should open, allowing you to download all repositories for that assignment. The Classroom Assistant can be found at https://classroom.github.com/assistant
+
 
 
 ### THESE ALTERNATIVE INSTRUCTIONS BELOW ARE FROM ANOTHER TEACHER. IT WAS CONSIDERED THAT IT MAY BE USEFUL IF YOU DECIDE TO RUN STUFF ON ODIN OR ANOTHER LINUX MACHINE INSTEAD OF WINDOWS AND DON'T WANT TO USE THE CLASSROOM ASSISTANT.
