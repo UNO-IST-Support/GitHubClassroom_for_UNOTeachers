@@ -21,8 +21,6 @@ git config --global user.email 'student@email.com'
 
 ### Make a repo on GitHub
 
-You can skip this step if you are provided a repo through Github Classroom as once you accept the assignment, it creates a repo for you.
-
 Below we make a repository and copy the link so that we can get the repository onto our own computer.
 
 ![Alt Text](http://g.recordit.co/Uw0QIT8XhR.gif)
