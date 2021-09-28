@@ -238,6 +238,7 @@ And here is a GIF showing how to do the above:
 
 ### Additional resources
 * https://classroom.github.com/videos
+* https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/manage-classrooms
 * https://ecots2018.github.io/ another great guide from Adam Sullivan at Brown University
 
 ### Credits
