@@ -2,6 +2,11 @@
 
 This is a guide for using GitHub Classroom to assist or run your class. This guide should be applicable to most classes, those that aren't compatible (Bash commands or non-supported languages) will have to be tested on Odin or a personal machine. This DOES NOT stop students from being able to push code to assignment repositories for submission.
 
+<br/>
+<br/>
+## Need a specific topic? Click the links below to quickly navigate!
+[repo](https://github.com/UNO-IST-Support/GitHubClassroom_for_UNOTeachers#Setting_up_GitHub_Classroom)
+
 ### Steps for getting setup with GitHub
 1. Register for account on GitHub (https://github.com/). We recommend using a username that incorporates your UNO NetID.
 
